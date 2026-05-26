@@ -10,7 +10,7 @@ const LoginScreen = ({navigation}: Props) => {
     const {t} = useTranslation();
     const [email, setEmail] = useState<string>("");
     const loginCilck = () => {
-        navigation.navigate("MainScreen");
+        navigation.navigate("BottomNavigation");
     }
     return (
 

@@ -1,4 +1,6 @@
 export  type RouteNavigationScreens = {
     Login:undefined,
-    MainScreen:undefined
+    BottomNavigation:undefined,
+    MainScreen:undefined,
+    AddTasksScreen:undefined
 }

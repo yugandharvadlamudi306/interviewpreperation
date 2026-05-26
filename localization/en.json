@@ -2,5 +2,10 @@
   "login": {
     "enter_email": "Enter Email yugandhar",
     "login": "Login"
+  },
+  "addTask": {
+    "add_task": "Add Task",
+    "enter_task": "Enter Task",
+    "add": "Add"
   }
 }
